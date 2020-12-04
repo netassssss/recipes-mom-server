@@ -7,6 +7,7 @@ const senderId = '506227838357';
 const appId = '1:506227838357:web:389e9b9fb1f6db681e3a9c';
 const mId = 'G-QRM2VD2EP1';
 const path = 'recipes';
+const titlesPath = 'titles';
 
 module.exports = {
   mId,
@@ -17,5 +18,6 @@ module.exports = {
   senderId,
   projectId,
   authDomain,
+  titlesPath,
   storageBucket,
 };
